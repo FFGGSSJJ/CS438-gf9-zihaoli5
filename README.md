@@ -26,3 +26,7 @@ According to [UIUC ACADEMIC INTEGRITY POLICY](https://studentcode.illinois.edu/a
    7. Record. The Instructor’s Allegation Notice, written student Response, any materials relied upon by the Instructor to make the Instructor’s decision, the course syllabus, and the Instructor’s Decision Notice.
 
 See  https://github.com/Violet24K/UIUC-Academic-Integrity for more.
+
+
+### Known Issue
+For mp3, the linkstate part has some minor bugs, probably in format, not functionality. We got 90/100 for mp3 according to the autograder.
