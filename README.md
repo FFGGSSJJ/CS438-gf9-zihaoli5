@@ -24,3 +24,5 @@ According to [UIUC ACADEMIC INTEGRITY POLICY](https://studentcode.illinois.edu/a
    5. Instructor. A faculty member or authorized staff member who supervises any academic endeavor.
    6. Notice. A written communication conveying information to or from a participant in the process. E-mail notices are strongly encouraged.
    7. Record. The Instructor’s Allegation Notice, written student Response, any materials relied upon by the Instructor to make the Instructor’s decision, the course syllabus, and the Instructor’s Decision Notice.
+
+See  https://github.com/Violet24K/UIUC-Academic-Integrity for more.
