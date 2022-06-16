@@ -1,4 +1,4 @@
-# CS438-gf9
+# CS438 - Guanshujie Fu & Zihao Li
 
 ### 
 
